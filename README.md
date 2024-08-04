@@ -1,2 +1,2 @@
-#  Basic-Movie-Ranking-Website
-This is movie ranking project using HTML
+# Basic-Movie-Ranking-Website
+This is movie ranking project by using HTML
